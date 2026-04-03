@@ -95,11 +95,11 @@ def hex_rgb(hex_color: str) -> tuple[int, int, int]:
 def bpm_color(bpm: int | None) -> QColor:
     """
     Gibt eine Farbe je nach Herzfrequenz zurück:
-      <60 bpm  → kühles Blau    (Ruhe / Bradykardie)
-      60–90    → Grün           (Normal)
-      90–120   → Gelb-Orange    (leichte Belastung)
-      120–150  → Orange         (mittlere Belastung)
-      >150     → Rot            (hohe Belastung)
+      <40 bpm  → kühles Blau    (Ruhe / Bradykardie)
+      50–70    → Grün           (Normal)
+      70–80   → Gelb-Orange    (leichte Belastung)
+      90–110  → Orange         (mittlere Belastung)
+      >110     → Rot            (hohe Belastung)
     Weicher Übergang per linearer Interpolation.
     """
     if bpm is None:
