@@ -4,6 +4,8 @@ Ein minimalistisches, schwebendes Echtzeit-Fenster für den **Polar H10 Herzfreq
 
 Zeigt BPM, HRV (RMSSD) und ein scrollendes ECG-Signal direkt auf dem Desktop – ohne externe App, ohne Cloud, ohne Kabel.
 
+<img width="2560" height="1377" alt="image" src="https://github.com/user-attachments/assets/09be5799-0daa-4395-9bfc-2862d772f468" />
+
 ---
 
 ## Features
