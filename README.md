@@ -15,7 +15,7 @@ Zeigt BPM, HRV (RMSSD) und ein scrollendes ECG-Signal direkt auf dem Desktop –
 - **Notch-Filter** (50 oder 60 Hz) gegen Netzbrumm-Artefakte, ohne QRS-Einfluss
 - **R-Zacken-Detektion** (Pan-Tompkins-ähnlich) mit Markierungspunkten im Graph
 - **Amplitudenskala** (±mV) am linken Rand mit automatischer Skalierung
-- **Papiergeschwindigkeit** einstellbar (6.25 / 12.5 / **25** / 50 / 100 mm/s) – per Mausrad live änderbar
+- **Scrollgeschwindigkeit** einstellbar (6.25 / 12.5 / **25** / 50 / 100 mm/s) – per Mausrad live änderbar
 - **Rahmenloses Fenster**, immer im Vordergrund, verschiebbar per Drag
 - Doppelklick zum Beenden
 - **Verbose-Modus** mit FPS, BLE-Sample-Rate und ECG-Rohdaten
