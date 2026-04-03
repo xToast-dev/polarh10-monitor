@@ -170,9 +170,3 @@ KDE → Rechtsklick auf Fenster → „Immer im Vordergrund" aktivieren, oder `-
 
 **Schlechte Signalqualität / Artefakte**
 Der H10 reagiert stark auf Bewegung und schlechten Hautkontakt. Sensor anfeuchten, Gurt straff anlegen, 4–8 Sekunden warten bis das Signal stabil ist.
-
----
-
-## Lizenz
-
-MIT
